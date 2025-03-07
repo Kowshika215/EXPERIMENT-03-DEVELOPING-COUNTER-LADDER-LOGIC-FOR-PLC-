@@ -63,10 +63,10 @@ Download the ladder logic program to the PLC if available and run it.
 Test the counters with the physical push buttons and observe the LEDs or other output devices.
 ### Outputs:
 Up Counter (CTU): The output LED or indicator should activate when the preset count (e.g., 10) is reached.
-Down Counter (CTD): The output should activate when the count reaches zero.
-Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
-PROBLEM STATEMENT:
+Down Counter (CTD): The output should activate when the count reaches zero.
+
+## PROBLEM STATEMENT:
 Design PLC ladder logic that reads input from 2 sensors providing counting operation starting from 0 to 10. Also switch ON conveyer but reaching packet station and seal packet after 5s of delay.
 
 ### Simulation Screenshots:
@@ -75,6 +75,7 @@ Design PLC ladder logic that reads input from 2 sensors providing counting opera
 ![Screenshot 2025-03-07 154832](https://github.com/user-attachments/assets/59f21dc5-7eb1-4fb9-bf68-83517863bf1b)
 
 ![Screenshot 2025-03-07 154859](https://github.com/user-attachments/assets/f6de9311-2f43-4c4c-809a-7becb3631fc9)
+
 
 ![Screenshot 2025-03-07 160452](https://github.com/user-attachments/assets/66e50116-6245-41a1-9488-758e7f815901)
 
