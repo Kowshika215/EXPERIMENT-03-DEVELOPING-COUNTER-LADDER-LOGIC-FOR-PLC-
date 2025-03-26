@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME: Beatrice Thomas
-## REGISTER NUMBER: 212223110005
-## DEPARTMENT: CSE IOT
-## YEAR: II
+## NAME: Kowshika.R
+## REGISTER NUMBER: 212224220049
+## DEPARTMENT: IT
+## YEAR: I
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -71,14 +71,25 @@ Design PLC ladder logic that reads input from 2 sensors providing counting opera
 
 ### Simulation Screenshots:
 
+COUNTER UP:
 
-![Screenshot 2025-03-07 154832](https://github.com/user-attachments/assets/59f21dc5-7eb1-4fb9-bf68-83517863bf1b)
+![Screenshot 2025-03-26 132108](https://github.com/user-attachments/assets/7214f0dd-3fe4-45bc-ac4a-13c4f3046c1b)
 
-![Screenshot 2025-03-07 154859](https://github.com/user-attachments/assets/f6de9311-2f43-4c4c-809a-7becb3631fc9)
+COUNTER DOWN:
 
+![WhatsApp Image 2025-03-25 at 19 01 07_7cae0741](https://github.com/user-attachments/assets/a43aaefb-9113-4cc2-988a-b77cdf735a0a)
 
-![Screenshot 2025-03-07 160452](https://github.com/user-attachments/assets/66e50116-6245-41a1-9488-758e7f815901)
+PROBLEM STATEMENT:
+Device a PLC lader logic that can read data from two sensors providing the counting operation starting from 0 to 10 and switch on 
+convirment reaching the packet station and seal the packet station and seal the packet after 5sec of delay.
 
+COUNTER UP:
+
+![WhatsApp Image 2025-03-25 at 19 01 08_0601e573](https://github.com/user-attachments/assets/6d2ae8e4-fd2a-40a0-839e-db175b9cca5a)
+
+COUNTER DOWN:
+
+![WhatsApp Image 2025-03-25 at 19 01 09_26207b2a](https://github.com/user-attachments/assets/73db210a-4e78-4d0c-a072-32f5183b314c)
 
 
 ### Results:
